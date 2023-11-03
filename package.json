@@ -4,7 +4,7 @@
     "license": "PrimeNG Commercial",
     "scripts": {
         "ng": "ng",
-        "start": "ng serve",
+        "start": "ng serve --port=3300",
         "build": "ng build",
         "test": "ng test",
         "lint": "ng lint",
